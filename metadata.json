@@ -1,0 +1,6 @@
+{
+  "name": "Zippy Recap Pro",
+  "description": "AI-powered video recap and Burmese dubbing studio with automatic SRT subtitle extraction, Gemini script generation, Edge TTS, and anti-copyright frame sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
